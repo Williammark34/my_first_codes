@@ -1,0 +1,28 @@
+# my_first_codes
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Batman site in 2023</title>
+    <link href="styles/styles.css" rel="stylesheet">
+  </head>
+  <body>
+    <br>
+    <h1 (en-US)>Batman is here</h1>
+    <br>
+     <img src="images/batman-movie.jpg" alt="My test image Batman" height="500" width="700">
+     <p>Ben Affleck?!</p>
+    <ul>
+        <li>gadgets</li>
+        <li>hood</li>
+    </ul>
+     <p>More</p>
+    <ol>
+        <li>symbol</li>
+        <li>gloves and boots</li>
+    </ol>
+     <p>where?<a href="https://www.google.com.br/search?q=batman&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjQp8H29u_8AhUjLLkGHUXoB7wQ_AUoAnoECAEQBA&biw=1366&bih=568#imgrc=WcAp3k9Fed1HhM">Link here</a></p>
+     <h3>Player 1: </h3>
+    <script src="scripts/main.js"></script>
+  </body>
+</html>
